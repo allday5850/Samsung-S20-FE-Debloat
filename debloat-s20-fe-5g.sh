@@ -277,7 +277,7 @@ rm -rf /data/user_de/0/com.samsung.android.ardrawing
 rm -rf /system_root/system/app/ARDrawing
 
 # Samsung AR Emoji
-# Package Id: com.samsung.android.ardrawing
+# Package Id: com.samsung.android.aremoji
 # App Name: AREmoji
 find /data/app/ -iname *com.samsung.android.aremoji-* 2>/dev/null | xargs rm -rf
 find /data/dalvik-cache/ -iname *@AREmoji@* 2>/dev/null | xargs rm -rf
